@@ -1,0 +1,9 @@
+Model,Group,False alarm rate (FPR),Missed churner rate (FNR)
+Random Forest,Not senior,0.227,0.254
+Random Forest,Senior,0.444,0.112
+Random Forest,Female,0.251,0.249
+Random Forest,Male,0.255,0.182
+Logistic Regression,Not senior,0.241,0.268
+Logistic Regression,Senior,0.484,0.071
+Logistic Regression,Female,0.263,0.223
+Logistic Regression,Male,0.277,0.21
